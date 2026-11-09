@@ -114,7 +114,7 @@ Berikut dokumentasi proses pembuatan dan hasil website BukuKita.
 
 Video ini berisi penjelasan mengenai sistematika, alur berpikir, proses perancangan, dan pembuatan website BukuKita menggunakan HTML, CSS, dan JavaScript.
 
-**Link YouTube:** [Masukkan link video YouTube di sini]
+**Link YouTube:** [https://youtu.be/_RGCcxpKKgg]
 
 ## 9. Kesimpulan
 
